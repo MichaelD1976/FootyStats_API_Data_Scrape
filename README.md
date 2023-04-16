@@ -1,1 +1,3 @@
-# FootyStats_API_Data_Scrape
+### FootyStats_API_Data_Scrape
+
+A userguide Python script to access and scrape csv data files from the footystats.org API using the Selenium library. Footystats is a subscription based football data repository with a comprehensive collection of league, match and player data files. This script  demonstrates the benefits of Selenium's webdriver scraping capability in overcoming the need to provide login/password details. For this example, the England Premier League 2022-23 match csv is retrieved and the Python Pandas library used to clean and organize the data. It is then configured into three separate data frames for further future processing and each saved to separate sheets within an existing excel workbook. 
